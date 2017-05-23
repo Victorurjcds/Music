@@ -5,4 +5,4 @@ main.py: script
 
 music: initial dataset.
 
-recommendation: recommended music based on uses' behaviour.
+recommendation: recommended music based on users' behaviour. First ten music group are shown for each user.
